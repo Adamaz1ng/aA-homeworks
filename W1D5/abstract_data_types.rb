@@ -38,7 +38,7 @@ class Queue
   end
 end
 
-class map
+class Map
   attr_accessor :map_hash
 
   def initialize
